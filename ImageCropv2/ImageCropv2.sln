@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageCropVersion2", "ImageCropVersion2\ImageCropVersion2.csproj", "{0B84352E-9272-4BEA-8AE8-614FB15F5087}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B84352E-9272-4BEA-8AE8-614FB15F5087}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B84352E-9272-4BEA-8AE8-614FB15F5087}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B84352E-9272-4BEA-8AE8-614FB15F5087}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B84352E-9272-4BEA-8AE8-614FB15F5087}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9709F7DE-E391-4F84-AEAA-473AA95490C1}
+	EndGlobalSection
+EndGlobal
