@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "I2SiJI+ZYIWCYoNfI1Va49J3CSNP0/Fo2kAmtO20qEs=",
+  "Hash": "4ByQFJnjkiW8KrYISzd09Lw3Q5sb31NhfWGrZcNC1Rk=",
   "Source": "ImageCropVersion2",
   "BasePath": "_content/ImageCropVersion2",
   "Mode": "Default",
@@ -1120,6 +1120,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\Passport_20230820212751820_d55a8771c5f94cf5acb8277a24b03ecf.png"
+    },
+    {
+      "Identity": "E:\\C# and Dot net Projects\\PassportPhotoCropping\\ImageCropv2\\ImageCropVersion2\\wwwroot\\Images\\Passport_20230820213528709_b8d16730cdba4eaeb061885cd526e592.png",
+      "SourceId": "ImageCropVersion2",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\C# and Dot net Projects\\PassportPhotoCropping\\ImageCropv2\\ImageCropVersion2\\wwwroot\\",
+      "BasePath": "_content/ImageCropVersion2",
+      "RelativePath": "Images/Passport_20230820213528709_b8d16730cdba4eaeb061885cd526e592.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Passport_20230820213528709_b8d16730cdba4eaeb061885cd526e592.png"
+    },
+    {
+      "Identity": "E:\\C# and Dot net Projects\\PassportPhotoCropping\\ImageCropv2\\ImageCropVersion2\\wwwroot\\Images\\Passport_20230821101703799_30ec19844a7a49369bf280c4f13caf80.png",
+      "SourceId": "ImageCropVersion2",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\C# and Dot net Projects\\PassportPhotoCropping\\ImageCropv2\\ImageCropVersion2\\wwwroot\\",
+      "BasePath": "_content/ImageCropVersion2",
+      "RelativePath": "Images/Passport_20230821101703799_30ec19844a7a49369bf280c4f13caf80.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Passport_20230821101703799_30ec19844a7a49369bf280c4f13caf80.png"
     },
     {
       "Identity": "E:\\C# and Dot net Projects\\PassportPhotoCropping\\ImageCropv2\\ImageCropVersion2\\wwwroot\\js\\site.js",

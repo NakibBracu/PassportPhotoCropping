@@ -29,6 +29,7 @@
                         <div id="main-cropper"></div>
                         <input type="file" id="select" class="form-control" value="Choose Image" accept="image/*">
                         <button id="btnupload" style="margin-top: 10px;" name="btnupload" class="btn btn-success">Crop</button>
+                        <button id="btnrotate" style="margin-top: 10px;" name="btnrotate" class="btn btn-primary">Rotate</button>
                     </div>
                 </div>
             </div>
@@ -46,9 +47,20 @@
             viewport: { width: 300, height: 300 },
             boundary: { width: 500, height: 400 },
             showZoomer: true,
+            enableOrientation: true,
             url: '/DefaultImages/preview.jpg',
             format: 'png' //'jpeg'|'png'|'webp'
         });
+
+    // Function to rotate the image 90 degrees clockwise
+    function rotateImage() {
+        $('#main-cropper').croppie('rotate', 90); // Rotate the image by 90 degrees clockwise
+    }
+
+    // Bind the "Rotate" button click event to the rotateImage function
+    $('#btnrotate').on('click', function () {
+        rotateImage();
+    });
 
 
     //Reading the contents of the specified Blob or File
